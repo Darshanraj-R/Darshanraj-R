@@ -33,15 +33,9 @@ I want to improve people's lives through technology.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
 </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> 
-</a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/>
-</a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">  
@@ -49,9 +43,6 @@ I want to improve people's lives through technology.
 </a>           
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
-</a>           
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
